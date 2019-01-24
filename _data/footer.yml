@@ -1,0 +1,12 @@
+- title: Pages
+  links:
+    - name: Home
+      link: /
+    - name: Contact
+      link: /contact/
+- title: Social
+  links:
+    - name: LinkedIn
+      link: https://www.linkedin.com/company/team-d2l/about/ 
+      social_icon: LinkedIn
+      new_window: true
